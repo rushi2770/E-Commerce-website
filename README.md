@@ -7,6 +7,12 @@ It is a sample e-commerce website with login page and customized item images are
   * All rights reserved.
 */
 
+/*
+ * Test login credentials
+ * User name: rushi
+ * Password: rushi
+*/
+
 
 This site lists segregated items per user login. Depending upon the user id the items are displayed. 
 
